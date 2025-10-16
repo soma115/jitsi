@@ -1,5 +1,10 @@
 {
+  "logoImageUrl":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
   "logoClickUrl":"https://nagrania.wikikracja.pl",
+  "backgroundColor":"#fff",
+  "backgroundImageUrl":"https://www.impactmeet.in/assets/img/logo.png",
+  "logo": "https://i0.wp.com/demokracjabezposrednia.pl/wp-content/uploads/2022/06/unknown-1-e1659894995951.png?w=1500&ssl=1",
+  "favicon": "https://demokracjabezposrednia.pl/favicon.ico",
   "defaultBranding": {
     "inviteDomain": "nagrania.wikikracja.pl",
     "backgroundColor": "#1a3c34",
@@ -14,9 +19,3 @@
     }
   }
 }
-
-// "logoImageUrl":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"
-// "backgroundColor":"#fff",
-// "backgroundImageUrl":"https://www.impactmeet.in/assets/img/logo.png",
-// "logo": "https://i0.wp.com/demokracjabezposrednia.pl/wp-content/uploads/2022/06/unknown-1-e1659894995951.png?w=1500&ssl=1",
-// "favicon": "https://demokracjabezposrednia.pl/favicon.ico",
